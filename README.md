@@ -6,7 +6,7 @@ CAMILI is an intelligent voice-activated AI assistant built with Python that com
 ## Features
 
 ### 🎤 Voice Recognition
-- Wake word activation ("jarvis")
+- Wake word activation ("CAMILI")
 - Continuous listening for user commands
 - Google Speech Recognition integration
 - Timeout and phrase limit controls for efficient processing
@@ -21,7 +21,7 @@ CAMILI is an intelligent voice-activated AI assistant built with Python that com
 ### 🤖 AI-Powered Responses
 - Integration with OpenAI's GPT-3.5 Turbo
 - Context-aware responses
-- Virtual assistant persona named "Jarvis"
+- Virtual assistant persona named "CAMILI"
 - Handles general queries similar to Alexa or Google Assistant
 
 ### 🌐 Web Automation
@@ -130,7 +130,7 @@ python main.py
 
 ### Activating the Assistant
 1. Wait for "Initializing camili...." message
-2. Say the wake word: **"jarvis"**
+2. Say the wake word: **"CAMILI"**
 3. Wait for the "Ya" response
 4. Speak your command
 
